@@ -1,4 +1,4 @@
-CHỨC NĂNG 1 : 🎙️ SRT TO MP3 CONVERTER
+**CHỨC NĂNG 1 : 🎙️ SRT TO MP3 CONVERTER**
 
 🚀 Tính năng
 - Hỗ trợ nhập file .srt.
@@ -73,3 +73,36 @@ DANH SÁCH CÁC GIỌNG ĐỌC LƯU TRONG FILE : voices.txt
 
 **CHỨC NĂNG 2 : 🎵 Video Audio Extractor**
 
+💡 Ý tưởng
+
+- Ứng dụng cho phép tách audio từ video (MP4, MKV, AVI) thành nhiều track riêng biệt bằng Demucs:
+
++ vocals.wav → giọng hát / giọng nói.
+
++ drums.wav, bass.wav, other.wav.
+
++ music.wav → nhạc nền (gộp drums+bass+other, không có giọng hát).
+
+- Ứng dụng có giao diện GUI (Tkinter), dễ sử dụng: chỉ cần chọn video → bấm tách → nhận file audio.
+
+⚙️ Yêu cầu cài đặt
+
+1. Cài Python (>=3.9)
+
+( GIỐNG HƯỚNG DẪN CHỨC NĂNG 1 )
+
+2. Cài Demucs
+
+        pip install demucs
+3. Cài FFmpeg
+
+( GIỐNG HƯỚNG DẪN CHỨC NĂNG 1 )
+
+🚀 Cách chạy chương trình
+
+1. Clone project hoặc tải file .py về máy.
+
+2. Chạy bằng lệnh:
+
+    python karaoke_maker.py
+   
