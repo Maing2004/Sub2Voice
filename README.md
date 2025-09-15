@@ -103,6 +103,6 @@ DANH SÁCH CÁC GIỌNG ĐỌC LƯU TRONG FILE : voices.txt
 1. Clone project hoặc tải file .py về máy.
 
 2. Chạy bằng lệnh:
-
-    python karaoke_maker.py
+   
+          python karaoke_maker.py
    
