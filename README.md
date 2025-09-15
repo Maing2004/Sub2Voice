@@ -26,16 +26,22 @@ CHỨC NĂNG 1 : 🎙️ SRT TO MP3 CONVERTER
 - Tải Python tại: https://www.python.org/downloads/
 
 2. Thư viện Python
-- Chạy lệnh: pip install edge-tts pydub
+- Chạy lệnh:
+
+      pip install edge-tts pydub
 
 3. FFmpeg
 - Tải tại: https://ffmpeg.org/download.html
 - Giải nén và thêm thư mục bin/ của FFmpeg vào biến môi trường PATH.
-- Kiểm tra cài đặt: bật cmd và gõ lệnh " ffmpeg -version "
+- Kiểm tra cài đặt: bật cmd và gõ lệnh
+
+      ffmpeg -version
 
 🖥️ Cách sử dụng:
 
-1. Mở cmd nhập lệnh : python srt_to_mp3.py
+1. Mở cmd nhập lệnh :
+
+    python srt_to_mp3.py
 
 2.Trong giao diện:
 - Chọn file SRT.
