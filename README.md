@@ -105,4 +105,25 @@ DANH SÁCH CÁC GIỌNG ĐỌC LƯU TRONG FILE : voices.txt
 2. Chạy bằng lệnh:
    
           python karaoke_maker.py
+
+3. Giao diện hiện ra → chọn video cần tách → nhấn “Bắt đầu tách âm thanh”
+
+📂 Output
+
+- Sau khi chạy xong, thư mục output sẽ có:
+
++ vocals.wav → giọng hát/giọng nói.
+
++ drums.wav
+
++ bass.wav
+
++ other.wav
+
++ music.wav → nhạc nền (gộp drums + bass + other).
+
+🖼️ Giao diện minh họa
+
+  <img width="682" height="433" alt="image" src="https://github.com/user-attachments/assets/23328656-c114-4c1c-a05d-13e00aeb7edc" />
+
    
