@@ -70,3 +70,6 @@ en-US-JennyNeural – Nữ, tiếng Anh (Mỹ).
 en-US-GuyNeural – Nam, tiếng Anh (Mỹ).
 
 DANH SÁCH CÁC GIỌNG ĐỌC LƯU TRONG FILE : voices.txt
+
+**CHỨC NĂNG 2 : 🎵 Video Audio Extractor**
+
