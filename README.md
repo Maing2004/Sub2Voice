@@ -124,5 +124,5 @@ DANH SÁCH CÁC GIỌNG ĐỌC LƯU TRONG FILE : voices.txt
 
 🖼️ Giao diện minh họa: 
 
-
+HÌNH : Screenshot 2025-09-16 001327.png
    
