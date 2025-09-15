@@ -1,4 +1,4 @@
-Chức năng 1 : 🎙️ SRT to MP3 Converter
+CHỨC NĂNG 1 : 🎙️ SRT TO MP3 CONVERTER
 
 🚀 Tính năng
 - Hỗ trợ nhập file .srt.
